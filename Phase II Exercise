@@ -1,0 +1,47 @@
+Media Archaeology Phase II
+
+“We no longer have access to digital tools for making,” insists Lori Emerson in her book Reading Writing Interfaces (3). This second phase of the media archaeology module seeks to transport us back to an earlier moment in time so we can see what she might mean by contrast. In general then, the objective is to use one of the available systems and its software to build or to make something. You have broad latitude as to content (your work can be fiction or non-fiction) as well as many options for format, ranging from programming to writing hypertext to digital drawing or 3-D printing. Try to experiment and take risks: I will be looking at how creatively you use your chosen platform.
+
+I have given some outlines for possible projects below. Choose just one! You may also think of other combinations of systems and software to do things I haven’t anticipated—please feel free to discuss with me. You may work either individually or in small groups, which you can form at your own discretion. (Groups should probably be no bigger than four persons.) The deliverables for this phase of the assignment will consist of whatever it is that you make, coupled with a coversheet (delivered appended to this document via Github) with the following categories:
+
+•	The title of the work or project.
+•	Everything I need to know to find it (computer, diskette, folder, and file name).
+•	If more than one individual is involved, list the members of the group and their roles. For a larger group it is especially important to give me detailed information as regards the nature of each person’s contribution.
+•	A 500-word (maximum—but: see “Writing Machines,” below for exception) statement describing your objectives for the project, working habits, problems encountered, and self-assessment of the deliverable.
+
+Projects should be possessed of some modest substance. Not the kind of effort you would put into writing a seminar paper, but something more than just a quickie little demo. You’ll have to use your judgment and get a feel for what seems appropriate in the time available; but the bigger the group, the greater my expectations will be. 
+
+ESSENTIAL: Because it is not inconceivable that a computer or disk could fail at some critical moment (taking both your own and others’ work with it), you must devise some alternative ways to document your progress. Taking pictures or video of the screen with your phone is one good idea—you may think of others. You are not responsible if a machine fails of course, but you are responsible if it fails and you have no other documentation to show me.
+Phase II of the module is due by class time on November 10.
+
+1.	Garden of Forking Paths
+Write a branching choose-your-own-adventure text with Apple BASIC. It can either be fiction or non-fiction. You’ll need to learn at least the following commands: PRINT, GOTO, IF/THEN, and probably also how to use some simple variables. You can even include comments in your code, using the REM statement. You’ll also need to learn basic disk handling commands like how to load and save files, as well as listing and running them.
+System: Apple IIe
+Saving: Use the diskette labelled “DOS 3.3 Sample Programs.” This loads Apple BASIC into the computer’s memory. You can save your files to this same diskette. 
+Resources: The Apple II reference books at MITH, Google.
+Hints: LIST some existing programs to see how they work. “Tron” is a good one.
+
+2.	Hypertext Hotel
+Using either Storyspace or HyperCard, create a hypertext. It can either be fiction or non-fiction. (Of these two, HyperCard is probably the easier to work with, and has better documentation.)
+Systems: Macintosh SE (Storyspace 1.5), Mac IIci (HyperCard 2.2).
+Saving: Create a sub-folder for your own work in the folder on the desktop labelled “ENGL668K”.
+Resources: Storyspace and HyperCard reference books at MITH, Google. Also be sure to take the Tour in HyperCard.
+Hints: Spend some time with Marble Springs (HyperCard) and/or We Descend (Storyspace). They’ll give you some feel for the poetics of the form. Look at the demo HyperCard stacks. Also read around in Landow’s Hypertext book.
+
+3.	Andy’s Future Was Here
+Use the multimedia capabilities of the Amiga to create a portfolio of pictorial work (just like Andy Warhol once did: http://www.wired.com/2014/04/an-amazing-discovery-andy-warhols-seminal-computer-art/). Some programs to consider working with: AmigaBASIC on the “Basic Extras 1.2” disk; PAINT on the “Appetizers” disk; GIZMOZ II; GRAPHICRAFT V. Others are certainly possible too: these are just suggestions. Play around a bit to see what you like.
+System: Amiga.
+Saving: Feel free to save on any of the Amiga disks (just be sure you and I both know where).
+Resources: The Future Was Here and other Amiga documentation at MITH; Google.
+Hints: For a given program, see if there are some demos available to give you ideas of what’s possible. 
+
+4.	Writing Machines
+As he confided on the Conan O’Brien show last year, George R. R. Martin still writes his books using WordStar (you can find the clip on YouTube). The objective of this scenario (which is structured a little differently from the others) is to try to figure out what the appeal is. First, select an existing 250-500 word text (how about the beginning of A Game of Thrones?), and type it into both WordStar on the Kaypro and using a manual or electric typewriter (which you’ll have to source yourself—the MT/ST Selectric is not in working order). When using WordStar, exercise its commands to produce an exact transcription—try inserting and deleting, moving around a block of text, formatting text, and so forth; when typing, by contrast, don’t worry about creating a perfect page—just type up your text, typos and blemishes and all. If, as Nietzsche famously said, our writing materials are shaping our thinking, what impact might each of these machines have on the way a writer would work? How different are they from what you’re accustomed to today, and do you think that difference could ever be productive? Address this in a statement of up to 1000 words that you prepare on either the Kaypro or the typewriter (so unlike the other options, your project statement will not be submitted via Github, but you still must complete a coversheet with the other fields filled in).
+Systems: Kayrpo, a manual or electric typewriter. 
+Saving: WordStar files on the Kaypro may be saved directly to the WordStar diskette. For the typewriter, be sure to turn in the original typewritten sheets to me.
+Resources: Reference books at MITH, keyboard stencil, Google.
+Hints: No whiteout on the screen please.
+
+5.	Maker Madness
+This is an open-ended option to “make” something using the facilities in the McKeldin MakerSpace and/or whatever other facilities, materials, and tools you wish to bring to bear. Your project should connect to or comment on the course’s themes in some way; it can absolutely be playful, but it shouldn’t just be arbitrary or capricious. If you choose this option, please give me a head’s up as to what you’re planning ahead of time.
+Systems, Saving, Resources: all variable.
